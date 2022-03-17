@@ -1,0 +1,9 @@
+D:\dev\Test\PropertyDataImporter\bin\Debug\PropertyDataImporter.dll
+D:\dev\Test\PropertyDataImporter\bin\Debug\PropertyDataImporter.pdb
+D:\dev\Test\PropertyDataImporter\bin\Debug\Serilog.dll
+D:\dev\Test\PropertyDataImporter\bin\Debug\Serilog.xml
+D:\dev\Test\PropertyDataImporter\obj\Debug\PropertyDataImporter.csproj.AssemblyReference.cache
+D:\dev\Test\PropertyDataImporter\obj\Debug\PropertyDataImporter.csproj.CoreCompileInputs.cache
+D:\dev\Test\PropertyDataImporter\obj\Debug\PropertyDataImporter.csproj.CopyComplete
+D:\dev\Test\PropertyDataImporter\obj\Debug\PropertyDataImporter.dll
+D:\dev\Test\PropertyDataImporter\obj\Debug\PropertyDataImporter.pdb
